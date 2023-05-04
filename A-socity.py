@@ -1,6 +1,6 @@
 #-----------------------------------------------#
-#coded by alien-01     (:                       #
-#telegram aline0110                             #
+#coded by Anonymous     (:                       #
+#telegram @Simple_moody_person                   #
 #the quitier you become the more your able hear #
 #-----------------------------------------------#
 import time
