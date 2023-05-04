@@ -2,7 +2,7 @@
 a simple tools for information gathering
 
 how to use
-git clone https://github.com/aline-01/a-socity</br>
+git clone https://github.com/DARKSTUFF-LAB/A-socity</br>
 pip3 install -r requirments.txt</br>
 python3 a-socity
 </br>
@@ -21,4 +21,4 @@ modules</br>
   8_To find the admin page</br>
 
 If you have an idea to improve this tool </br>
-Message me on Telegram @aline0110 (: 
+Message me on Telegram @Simple_moody_person (: 
